@@ -1,1 +1,1 @@
-= Please visit https://github.com/iterationlabs/my_obfuscate for a maintained version of this gem.
+= Please visit https://github.com/mavenlink/my_obfuscate for a maintained version of this gem.
